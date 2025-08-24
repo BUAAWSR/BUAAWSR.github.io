@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "A Review on Modeling Strategies in Understanding the Process Mechanism of 3D Printed Continuous Fiber-Reinforced Thermoplastic Composites"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Continuous fiber 3D printing (CF3DP) has emerged as a promising technique that deposits continuous fiber alongside resin, offering numerous functional and intelligent applications. CF3DP involves rapid heating and cooling of materials, characterized by multiscale and multiphase nature, which complicates the understanding of the underlying process mechanisms. This difficulty hinders the prediction and control of the manufacturing defects and may lead to the compromise of mechanical properties. Although significant efforts have been made in process modeling to establish the relationship between process parameters and manufacturing performance, a systematic review of these studies remains absent. In this work, we attempted to provide an overview of the modeling strategies in understanding the process mechanism of CF3DP. The various physical phenomena involved in the CF3DP process are systematically analyzed and the corresponding modeling studies are summarized. Then, special attention is devoted to exploring how multiscale modeling approaches can establish a relational framework between the CF3DP process and the prediction of mechanical properties. This article also discusses the modeling strategies of failure behaviors considering the manufacturing defects. Finally, this paper discusses emerging applications of CF3DP and highlights the critical role of process modeling in driving future advancements. With the discussion of the process modeling strategies in CF3DP, researchers can identify appropriate methods tailored to their specific interests while gaining deeper insights into the underlying process mechanism.'
+date: 2025-07-15
+venue: 'Journal of Manufacturing Processes'
+paperurl: 'http://BUAAWSR.github.io/files/paper3.pdf'
+citation: 'Wang, Shenru, Yan, Xin, et al. &quot;A review on modeling strategies in understanding the process mechanism of 3D printed continuous fiber-reinforced thermoplastic composites.&quot; <i>Journal of Manufacturing Processes</i> 145 (2025): 46-70.'
 ---
-
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

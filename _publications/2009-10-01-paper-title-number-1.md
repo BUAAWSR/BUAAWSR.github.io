@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Atomistic Modeling of the Effect of Temperature on Interfacial Properties of 3D-Printed Continuous Carbon Fiber-Reinforced Polyamide 6 Composite: From Processing to Loading"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'The combination of continuous fiber-reinforced thermoplastic composites (CFRTPCs) and the continuous fiber 3D printing (CF3DP) technique enables the rapid production of complex structural composites. In these 3D-printed composites, stress transfer primarily relies on the fiber–resin interface, making it a critical performance factor. The interfacial properties are significantly influenced by the temperatures applied during the loading and forming processes. While the effect of the loading temperature has been extensively researched, that of the forming temperature remains largely unexplored, especially from an atomistic perspective. Our research aims to employ molecular dynamics simulations to elucidate the effect of temperature on the interfacial properties of continuous carbon fiber-reinforced polyamide 6 (C/PA6) composites fabricated using the CF3DP technique, considering both loading and forming aspects. Through molecular dynamics simulations, we uncovered a positive correlation between the interfacial strength and forming temperature. Moreover, an increased forming temperature induced a notable shift in the failure mode of C/PA6 under uniaxial tensile loading. Furthermore, it was observed that increasing loading temperatures led to the deterioration of the mechanical properties of PA6, resulting in a gradual transition of the primary failure mode from adhesive failure to cohesive failure. This shift in the failure mode is closely associated with the glass transition of PA6.'
+date: 2023-11-20
+venue: 'ACS Applied Materials & Interfaces'
+paperurl: 'http://BUAAWSR.github.io/files/paper1.pdf'
+citation: 'Wang, Shenru, Yan, Xin, et al. &quot;Atomistic modeling of the effect of temperature on interfacial properties of 3D-printed continuous carbon fiber-reinforced polyamide 6 composite: From processing to loading.&quot; <i>ACS Applied Materials & Interfaces</i> 15.48 (2023): 56454-56463.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
