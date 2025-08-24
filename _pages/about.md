@@ -13,6 +13,4 @@ Contact
 ======
 Shenru Wang <br>
 School of Mechanical Engineering and Automation, Beihang University <br>
-Email: srwang@buaa.edu.cn <br>
-Tel.: +86 15028570065 <br>
-Wechat: 15028570065
+Email: srwang@buaa.edu.cn
